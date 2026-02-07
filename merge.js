@@ -51,7 +51,7 @@
     const lines = [
       '<div style="font-size: 18px; margin-bottom: 15px;">loading...</div>',
       '<a href="https://elite-gamez.github.io/" style="font-size: 15px; color: #d42222; text-decoration: underline; margin-bottom: 10px; display: block;">Elite Gamez</a>',
-      '<a href="https://elite-gamez.github.io/" style="font-size: 15px; color: #ff6600; text-decoration: underline; margin-bottom: 10px; display: block;">ugs</a>',
+      '<a href="discord.gg/FGK4VBJTyd" style="font-size: 15px; color: #ff6600; text-decoration: underline; margin-bottom: 10px; display: block;">Discord server</a>',
     ];
 
     config.files.forEach((file) => {
